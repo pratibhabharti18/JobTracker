@@ -1,0 +1,5 @@
+{
+  "name": "Job Application Tracker Pro",
+  "description": "A comprehensive job application tracking system with analytics, kanban board, and AI interview coaching.",
+  "requestFramePermissions": ["microphone"]
+}
